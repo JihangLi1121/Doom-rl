@@ -1,7 +1,7 @@
 # VizDoom RL Agent
 
-Reinforcement learning agents for VizDoom using PPO with reward shaping, built on Stable-Baselines3 and a GPU-accelerated Docker environment.
-
+Reinforcement learning agents for VizDoom using PPO with reward shaping, built on Stable-Baselines3 and a GPU-accelerated Docker environment. 
+Co-authored with @ Arthur Wei, Wonseuk Lee, Jaehyung Choi
 ## Project Structure
 
 ```
