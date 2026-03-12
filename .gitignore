@@ -1,0 +1,58 @@
+# Training outputs (large binary files)
+models/
+logs/
+videos/
+visualizations/
+checkpoints/
+runs/
+wandb/
+
+# Large data files
+*.zip
+*.tar.gz
+*.h5
+*.pkl
+*.npz
+
+# VizDoom source (can be pip installed)
+ViZDoom/
+
+# Old workspace directory (now reorganized)
+workspace/
+
+# Old nested repo
+doom-rl-agent/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+.pytest_cache/
+.coverage
+htmlcov/
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Misc
+*.log
+*.tmp
