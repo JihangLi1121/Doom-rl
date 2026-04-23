@@ -8,7 +8,7 @@ Co-authored with @ Arthur Wei, Wonseuk Lee, Jaehyung Choi
 
 Trained PPO agent clearing the **Deadly Corridor** scenario:
 
-[https://github.com/JihangLi1121/Doom-rl/raw/main/demo/Corridor_corridor_best_run.mp4](https://github.com/JihangLi1121/Doom-rl/issues/1#issue-4312755117)
+![Deadly Corridor Demo](https://github.com/JihangLi1121/Doom-rl/raw/main/demo/Corridor_corridor_best_run.gif)
 
 ## Project Structure
 
